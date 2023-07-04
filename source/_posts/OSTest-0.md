@@ -2,7 +2,7 @@
 title: OSTest
 date: 2022-10-30 15:08:18
 updated: 2022-10-31 15:08:18
-tags:
+tags: OS
 categories:
 ---
 

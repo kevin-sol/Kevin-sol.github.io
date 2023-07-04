@@ -103,7 +103,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Kevin-liu07/Kevin-liu07.github.io.git
+  repo: git@github.com:Kevin-sol/Kevin-sol.github.io.git
   branch: master
   
  
